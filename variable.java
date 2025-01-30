@@ -51,6 +51,25 @@ int a, b, c;
 a = b = c = 50;
 System.out.println(a + b + c);
 
+
+
+
+// Identifier  
+//  All Java variables must be identified with unique names.
+
+// int minutesPerHour = 60; // this is unique 
+// int m = 70; 
+int minutes_Per_Hour = 100; 
+System.out.println(minutes_Per_Hour);
+
+
+
+
+
+
+
+
+
     }
 }
 
